@@ -1,16 +1,16 @@
-## Hi there 👋
+```bash
+>_ echo "Welcome to my github profile"
+```
 
-<!--
-**vRefilv/vRefilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=C016F7&center=true&width=435&lines=Hello+i'm+Refil%2C+Developer!;Frontend+Developing%3A;HTML%2C+CSS%2C+JS;Backend+Developing%3A;PHP%2C+PYTHON;Minecraft+Java+Developing%3A;FABRIC+MODS%2C+SPIGOT+PLUGINS;Python+Developing;C%2B%2B+Developing;C%23+Developing)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- Discord: kt.ku
+- [Bio](https://e-z.bio/refil)
+- [No-ok](https://no-ok.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enoughsdv&show_icons=true&theme=aura)
+
+<details>
+  <summary>...</summary>
+    Test
+</details>
